@@ -106,8 +106,8 @@ Tenho atualmente 20 anos, sou de Taboão da Serra/SP e sou facinado por tecnolog
 ##
 
 <div align="center">
-<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=N3yTh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3yTh&layout=donut&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=N3yTh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3yTh&layout=donut&theme=radical"/>
 </div>
 
 ![Snake Animation](https://github.com/N3yTh/N3yTh/blob/output/github-contribution-grid-snake.svg)

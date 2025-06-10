@@ -110,5 +110,9 @@ Tenho atualmente 20 anos, sou de Taboão da Serra/SP e sou facinado por tecnolog
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3yTh&layout=donut&theme=radical"/>
 </div>
 
-[gif](https://github.com/N3yTh/N3yTh/raw/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N3yTh/N3yTh/output/github-contribution-grid-snake.svg">
+</picture>
 

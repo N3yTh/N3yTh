@@ -124,3 +124,4 @@ Tenho atualmente 20 anos, sou de Taboão da Serra/SP e sou facinado por tecnolog
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
